@@ -1,9 +1,8 @@
 # Exponential decay processes
 
 # prepare to run
-
-# Open with VScode or any IDE
-# in your project directory, run these commands in the terminal
+Open with VScode or any IDE
+# In your project directory, run these commands in the terminal
 # make a virtual environment
 windows -> python -m venv "any name of choice"
 linux -> python3 -m venv "any name of choice"
